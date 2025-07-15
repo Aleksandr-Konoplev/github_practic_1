@@ -1,0 +1,1 @@
+print("github_practic_1")
